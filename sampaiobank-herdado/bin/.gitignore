@@ -1,7 +1,6 @@
-/ControleBonus.class
-/Diretor.class
-/Funcionario.class
-/Gerente.class
-/TestaFuncionario.class
-/TestaGerente.class
-/TesteReferencias.class
+/Solution.class
+/SistemaInterno.class
+/Autenticavel.class
+/Autenticador.class
+/CalculadorImposto.class
+/Tributavel.class
